@@ -1,1 +1,143 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T08:56:12.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" version="20.6.0" etag="FFvlA5V_xpOULyO84Jdy" type="github"><diagram id="xMcBpuJFgwRD8YhtKOZz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-24T09:23:59.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" version="20.6.0" etag="k0yPc8O7EaNDvydZRqaa" type="github">
+  <diagram id="bUj-ngnEUEQJwS3um5YW" name="Page-1">
+    <mxGraphModel dx="3968" dy="2284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="1L6s1kHgMgdUUQV8_ZAs-1" target="1L6s1kHgMgdUUQV8_ZAs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;เริ่มต้น&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="365" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="1L6s1kHgMgdUUQV8_ZAs-2" target="1L6s1kHgMgdUUQV8_ZAs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-2" value="&lt;h3 style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.25em; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25; text-align: start;&quot; dir=&quot;auto&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;ลุกขึ้นจากเตียงนอน&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="298" y="150" width="255" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-9" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;yes&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="1L6s1kHgMgdUUQV8_ZAs-6" target="1L6s1kHgMgdUUQV8_ZAs-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="1L6s1kHgMgdUUQV8_ZAs-6" target="1L6s1kHgMgdUUQV8_ZAs-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-49" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=26;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="1L6s1kHgMgdUUQV8_ZAs-11">
+          <mxGeometry x="-0.2163" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-6" value="&lt;h3 style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.25em; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25; text-align: start;&quot; dir=&quot;auto&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;ถ้ามีคนอยู่ห้องน้ำ&lt;/span&gt;&lt;/h3&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=22;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="273" y="280" width="304.5" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="1L6s1kHgMgdUUQV8_ZAs-8" target="1L6s1kHgMgdUUQV8_ZAs-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-8" value="&lt;h3 style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.25em; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25; text-align: start;&quot; dir=&quot;auto&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;เข้าห้องน้ำ&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="313" y="640" width="224.75" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="1L6s1kHgMgdUUQV8_ZAs-10" target="1L6s1kHgMgdUUQV8_ZAs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-10" value="&lt;h3 style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.25em; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25; text-align: start;&quot; dir=&quot;auto&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;เล่นโทรศัพท์สักครู่&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="749.75" y="376.25" width="280.25" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="1L6s1kHgMgdUUQV8_ZAs-16" target="1L6s1kHgMgdUUQV8_ZAs-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-16" value="&lt;h3 style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.25em; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25; text-align: start;&quot; dir=&quot;auto&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;เมื่ออาบน้ำเสร็จ&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="303" y="806.25" width="244.63" height="73.75" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="1L6s1kHgMgdUUQV8_ZAs-18" target="1L6s1kHgMgdUUQV8_ZAs-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-18" value="&lt;h3 style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.25em; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25;&quot; dir=&quot;auto&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;เช็ดตัวแล้วจากนั้นแปรงฟัน&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="313" y="960" width="224.69" height="93.13" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="1L6s1kHgMgdUUQV8_ZAs-20" target="1L6s1kHgMgdUUQV8_ZAs-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-20" value="&lt;h3 style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.25em; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25;&quot; dir=&quot;auto&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;เมื่อแปลงฟันเสร็จ&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="333.18" y="1149.7" width="184.65" height="80.3" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="1L6s1kHgMgdUUQV8_ZAs-22" target="1L6s1kHgMgdUUQV8_ZAs-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-22" value="&lt;h3 style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.25em; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25;&quot; dir=&quot;auto&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;แต่งชุดเพื่อไปวิทยาลัย&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="323" y="1289.7" width="204.65" height="110.3" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="1L6s1kHgMgdUUQV8_ZAs-24" target="1L6s1kHgMgdUUQV8_ZAs-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-24" value="&lt;h3 style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.25em; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25; text-align: start;&quot; dir=&quot;auto&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;เมื่อแต่งตัวเสร็จ&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="318" y="1480" width="214.68" height="104.85" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="1L6s1kHgMgdUUQV8_ZAs-26" target="1L6s1kHgMgdUUQV8_ZAs-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-26" value="&lt;h3 style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.25em; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25;&quot; dir=&quot;auto&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;ไปที่หน้าบ้านเพื่อเตรียมของไปที่วิทยาลัย&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="239" y="1670" width="372" height="132.73" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="1L6s1kHgMgdUUQV8_ZAs-28" target="1L6s1kHgMgdUUQV8_ZAs-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-28" value="&lt;h3 style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.25em; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25; text-align: start;&quot; dir=&quot;auto&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;รับเงินจากแม่&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="318" y="1880" width="214.67" height="100.9" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="1L6s1kHgMgdUUQV8_ZAs-30" target="1L6s1kHgMgdUUQV8_ZAs-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-30" value="&lt;h3 style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.25em; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25; text-align: start;&quot; dir=&quot;auto&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;เตรียมหมวกกันน๊อก&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="298" y="2040" width="254.67" height="108.65" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="1L6s1kHgMgdUUQV8_ZAs-32" target="1L6s1kHgMgdUUQV8_ZAs-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-32" value="&lt;h3 style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.25em; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25; text-align: start;&quot; dir=&quot;auto&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;จากนั้นขี่รถมอเตอร์ไซด์&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="252.99999999999997" y="2230" width="344.67" height="107.03" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="1L6s1kHgMgdUUQV8_ZAs-35" target="1L6s1kHgMgdUUQV8_ZAs-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-35" value="&lt;h3 style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.25em; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25; text-align: start;&quot; dir=&quot;auto&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;เดินทางไปวิทยาลัย&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="283" y="2440.55" width="284.67" height="119.45" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="1L6s1kHgMgdUUQV8_ZAs-37" target="1L6s1kHgMgdUUQV8_ZAs-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-50" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=26;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="1L6s1kHgMgdUUQV8_ZAs-40">
+          <mxGeometry x="-0.1951" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-42" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="1L6s1kHgMgdUUQV8_ZAs-37" target="1L6s1kHgMgdUUQV8_ZAs-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-37" value="&lt;h3 style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.25em; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25; text-align: start;&quot; dir=&quot;auto&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;หากเจอรถระหว่างทาง&lt;/span&gt;&lt;/h3&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=22;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="258.16999999999996" y="2650" width="334.67" height="280.28" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="1L6s1kHgMgdUUQV8_ZAs-39" target="1L6s1kHgMgdUUQV8_ZAs-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-39" value="&lt;h3 style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.25em; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25; text-align: start;&quot; dir=&quot;auto&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;รีบไปหรือไปแบบสบายขึ้นอยู่กับเวลา&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="720" y="2730.21" width="490" height="119.86" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="1L6s1kHgMgdUUQV8_ZAs-41" target="1L6s1kHgMgdUUQV8_ZAs-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-41" value="&lt;h3 style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.25em; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25;&quot; dir=&quot;auto&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;ให้เลือกที่จะชะล่อหรือหาทางที่สามารถไปถึงเป้าหมายได้&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="243.26" y="3010" width="364.5" height="99.58" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="1L6s1kHgMgdUUQV8_ZAs-44" target="1L6s1kHgMgdUUQV8_ZAs-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-44" value="&lt;h3 style=&quot;box-sizing: border-box; margin-top: 24px; font-size: 1.25em; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25; text-align: start; margin-bottom: 0px !important;&quot; dir=&quot;auto&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;ถึงวิทยาลัยแล้วครับ&lt;/span&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="819.96" y="3130" width="290.09" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1L6s1kHgMgdUUQV8_ZAs-47" value="&lt;h3 style=&quot;box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.25em; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25; text-align: start;&quot; dir=&quot;auto&quot;&gt;สิ้นสุดการทำงาน&lt;/h3&gt;" style="whiteSpace=wrap;html=1;fontSize=22;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="819.96" y="3320" width="290.09" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
