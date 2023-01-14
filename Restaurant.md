@@ -1,5 +1,8 @@
-### Json Line ChatBot
-## เรื่องร้านอาหาร
+## Khon Kaen Restaurant JSON
+
+This JSON object contains information about a restaurant in Khon Kaen. It includes details such as the restaurant's name, location, hours of operation, and menu items.
+
+```json
 {
   "type": "carousel",
   "contents": [
